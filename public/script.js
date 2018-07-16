@@ -8,7 +8,7 @@ new Vue({
         items: [],
         cart: [],
         results: [],
-        newSearch: 'anime',
+        newSearch: 'coder',
         lastSearch: '',
         loading: false,
         price: PRICE
